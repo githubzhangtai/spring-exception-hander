@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * ControllerAdvice： 会拦截有【@Controller】标注的类
- * @author Kimi
+ * @author beishanyao
  * @date 2020/1/10
  */
 @ControllerAdvice
